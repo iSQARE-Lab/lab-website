@@ -1,7 +1,7 @@
 ---
 name: Timothy Huo
 image: images/photo.jpg
-role: masters
+role: master
 aliases:
   - T. Huo
   - T Huo

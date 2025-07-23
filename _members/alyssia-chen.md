@@ -1,13 +1,13 @@
 ---
-name: Timothy Huo
+name: Alyssia Chen
 image: images/photo.jpg
-role: masters
+role: master
 aliases:
-  - B. Lee
-  - B Lee
+  - A. Chen
+  - A Chen
 links:
-  email: brianall@hawaii.edu 
-  linkedin: -brianalee
+  email: abc8@hawaii.edu
+  linkedin: alyssia-chen
 group: alum
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Briana Lee
 image: images/photo.jpg
-role: masters
+role: master
 aliases:
   - B. Lee
   - B Lee

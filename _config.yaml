@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: iSQARE
 subtitle: Intelligent Software Quality Assurance Research & Engineering Laboratory
-description: 
+# description: 
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: peruma@hawaii.edu
-  orcid: 
-  google-scholar: 
-  github: 
-  twitter: 
-  youtube: 
+  # orcid: 
+  # google-scholar: 
+  # github: 
+  # twitter: 
+  # youtube: 
 
 ### jekyll settings
 

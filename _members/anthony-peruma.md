@@ -1,6 +1,6 @@
 ---
 name: Anthony Peruma
-image: images/photo.jpg
+image: images/members/anthony-peruma.jpg
 role: principal-investigator
 aliases:
   - A. Peruma

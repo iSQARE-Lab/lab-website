@@ -1,13 +1,14 @@
 ---
-name: Carol Wong
+name: Timothy Huo
 image: images/photo.jpg
-role: phd
+role: masters
 aliases:
-  - C. Wong
-  - C Wong
+  - B. Lee
+  - B Lee
 links:
-  email: carolw8@hawaii.edu 
-  home-page: https://carolwong492.github.io/
+  email: brianall@hawaii.edu 
+  linkedin: -brianalee
+group: alum
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

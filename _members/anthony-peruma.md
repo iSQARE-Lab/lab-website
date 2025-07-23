@@ -2,13 +2,16 @@
 name: Anthony Peruma
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Hawai‘i at Mānoa
 aliases:
   - A. Peruma
   - A Peruma
 links:
+  email: peruma@hawaii.edu 
   home-page: https://www.peruma.me
-  orcid: 0000-0003-2585-657X
+  # orcid: 0000-0003-2585-657X
+  # github: shehan
+# affiliation: University of Hawai‘i at Mānoa
+# description: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

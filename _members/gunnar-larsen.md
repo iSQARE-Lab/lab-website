@@ -1,13 +1,13 @@
 ---
-name: Carol Wong
+name: Gunnar Larsen
 image: images/photo.jpg
-role: phd
+role: undergraduate
 aliases:
-  - C. Wong
-  - C Wong
+  - G. Larsen
+  - G Larsen
 links:
-  email: carolw8@hawaii.edu 
-  home-page: https://carolwong492.github.io/
+  email: gunnarrl@hawaii.edu  
+  linkedin: gunnarrl
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

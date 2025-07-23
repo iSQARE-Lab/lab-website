@@ -5,6 +5,6 @@
 
   # iSQARE-Lab's Website
 
-  Visit **[isqare.org](http://isqare.org)** 🚀
+  Visit **[www.isqare.org](https://www.isqare.org)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_

@@ -1,1 +1,1 @@
-Sitemap: https://isqare-lab.github.io/lab-website/sitemap.xml
+Sitemap: http://isqare.org/sitemap.xml

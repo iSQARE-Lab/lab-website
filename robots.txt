@@ -1,0 +1,1 @@
+Sitemap: https://isqare-lab.github.io/lab-website/sitemap.xml

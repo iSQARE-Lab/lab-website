@@ -1,14 +1,14 @@
 ---
-name: Jane Smith
+name: Anthony Peruma
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: University of Hawai‘i at Mānoa
 aliases:
-  - J. Smith
-  - J Smith
+  - A. Peruma
+  - A Peruma
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.peruma.me
+  orcid: 0000-0003-2585-657X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

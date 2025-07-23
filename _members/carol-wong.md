@@ -1,11 +1,11 @@
 ---
-name: Sarah Johnson
+name: Carol Wong
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: 
+role: phd
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: carolw8@hawaii.edu 
+  home-page: https://carolwong492.github.io/ 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

@@ -19,7 +19,7 @@ master:
   description: Masters Student
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-graduation-cap
   description: Undergraduate Student
 
 programmer:

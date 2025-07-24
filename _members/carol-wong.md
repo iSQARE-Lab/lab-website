@@ -1,6 +1,6 @@
 ---
 name: Carol Wong
-image: images/photo.jpg
+image: images/members/carol-wong.jpg
 role: phd
 aliases:
   - C. Wong

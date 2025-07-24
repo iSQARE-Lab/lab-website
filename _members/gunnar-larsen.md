@@ -1,6 +1,6 @@
 ---
 name: Gunnar Larsen
-image: images/photo.jpg
+image: images/members/gunnar-larsen.jpg
 role: undergrad
 aliases:
   - G. Larsen

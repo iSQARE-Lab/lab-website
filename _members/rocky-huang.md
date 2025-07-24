@@ -5,6 +5,7 @@ role: undergrad
 aliases:
   - R. Huang
   - R Huang
+  - Rocky Huang
 links: 
   linkedin: rocky-huang
 group: alum

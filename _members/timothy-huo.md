@@ -5,6 +5,7 @@ role: master
 aliases:
   - T. Huo
   - T Huo
+  - Timothy Huo
 links:
   # email: thuo@hawaii.edu  
   linkedin: timothy-huo

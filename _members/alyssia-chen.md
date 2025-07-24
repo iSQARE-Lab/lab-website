@@ -5,6 +5,7 @@ role: master
 aliases:
   - A. Chen
   - A Chen
+  - Alyssia Chen
 links:
   # email: abc8@hawaii.edu
   linkedin: alyssia-chen

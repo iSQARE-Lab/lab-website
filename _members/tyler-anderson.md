@@ -5,6 +5,7 @@ role: master
 aliases:
   - T. Anderson
   - T Anderson
+  - Tyler Anderson 
 links: 
   linkedin: tylerga
 group: alum

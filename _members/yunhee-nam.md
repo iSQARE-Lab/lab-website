@@ -5,6 +5,7 @@ role: undergrad
 aliases:
   - Y. Nam
   - Y Nam
+  - Yunhee Nam
 links: 
   linkedin: yunheenam9
 group: alum

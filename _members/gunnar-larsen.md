@@ -5,6 +5,7 @@ role: undergrad
 aliases:
   - G. Larsen
   - G Larsen
+  - Gunnar Larsen
 links:
   # email: gunnarrl@hawaii.edu  
   linkedin: gunnarrl

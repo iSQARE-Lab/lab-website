@@ -5,6 +5,7 @@ role: phd
 aliases:
   - C. Wong
   - C Wong
+  - Carol Wong
 links:
   # email: carolw8@hawaii.edu 
   linkedin: carolwong492

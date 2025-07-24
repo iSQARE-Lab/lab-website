@@ -5,6 +5,7 @@ role: undergrad
 aliases:
   - R. Malasarte
   - R Malasarte
+  - Roma Malasarte
 links: 
   linkedin: romamalasarte
 group: alum

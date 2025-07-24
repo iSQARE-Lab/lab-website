@@ -5,6 +5,8 @@ role: master
 aliases:
   - A. Araújo
   - A Araújo
+  - Ana Araújo
+  - Ana Catarina Araújo
 links:
   linkedin: acatarinaoaraujo
 group: alum

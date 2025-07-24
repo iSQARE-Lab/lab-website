@@ -5,6 +5,8 @@ role: undergrad
 aliases:
   - J. Averion
   - J Averion
+  - Joseph Carmelo Averion
+  - Joseph Averion
 links: 
   linkedin: josephaverion
 group: alum

@@ -5,6 +5,7 @@ role: phd
 aliases:
   - K. Torres
   - K Torres
+  - Kayla-Marie Torres
 links:
   linkedin: kaylamarietorres
 ---

@@ -5,6 +5,7 @@ role: master
 aliases:
   - B. Lee
   - B Lee
+  - Briana Lee
 links:
   # email: brianall@hawaii.edu 
   linkedin: -brianalee

@@ -5,6 +5,7 @@ role: principal-investigator
 aliases:
   - A. Peruma
   - A Peruma
+  - Anthony Peruma
 links:
   email: peruma@hawaii.edu 
   home-page: https://www.peruma.me

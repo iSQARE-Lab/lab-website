@@ -1,6 +1,6 @@
 ---
 name: Adriel White
-image: images/photo.jpg
+image: images/members/adriel-white.jpg
 role: undergrad
 aliases:
   - A. White

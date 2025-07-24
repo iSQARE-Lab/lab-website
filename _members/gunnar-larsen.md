@@ -6,7 +6,7 @@ aliases:
   - G. Larsen
   - G Larsen
 links:
-  email: gunnarrl@hawaii.edu  
+  # email: gunnarrl@hawaii.edu  
   linkedin: gunnarrl
 ---
 

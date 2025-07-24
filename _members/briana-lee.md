@@ -6,7 +6,7 @@ aliases:
   - B. Lee
   - B Lee
 links:
-  email: brianall@hawaii.edu 
+  # email: brianall@hawaii.edu 
   linkedin: -brianalee
 # group: alum
 ---

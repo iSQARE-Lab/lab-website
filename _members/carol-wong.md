@@ -6,7 +6,8 @@ aliases:
   - C. Wong
   - C Wong
 links:
-  email: carolw8@hawaii.edu 
+  # email: carolw8@hawaii.edu 
+  linkedin: carolwong492
   home-page: https://carolwong492.github.io/
 ---
 

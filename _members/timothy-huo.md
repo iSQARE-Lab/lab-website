@@ -6,8 +6,8 @@ aliases:
   - T. Huo
   - T Huo
 links:
-  email: thuo@hawaii.edu  
-  linkedin: -timothy-huo
+  # email: thuo@hawaii.edu  
+  linkedin: timothy-huo
 group: alum
 ---
 

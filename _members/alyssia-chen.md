@@ -6,7 +6,7 @@ aliases:
   - A. Chen
   - A Chen
 links:
-  email: abc8@hawaii.edu
+  # email: abc8@hawaii.edu
   linkedin: alyssia-chen
 group: alum
 ---

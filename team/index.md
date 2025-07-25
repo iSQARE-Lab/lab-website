@@ -35,7 +35,7 @@ Our alumni have played a vital role in shaping the growth and success of iSQARE.
 
 {% include list.html data="members" component="portrait" filter="group == 'alum'" style="small" %}
 
-<!--
+{% comment %}
 {% include section.html %}
 
 {% capture content %}
@@ -47,4 +47,4 @@ Our alumni have played a vital role in shaping the growth and success of iSQARE.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
--->
+{% endcomment %}

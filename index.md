@@ -11,7 +11,7 @@ The Intelligent Software Quality Assurance Research & Engineering Laboratory (iS
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research spans multiple interconnected domains within software engineering, focusing on understanding and improving how developers write, comprehend, maintain, and evolve software systems. We utilize real-world data to develop evidence-based solutions that enhance maintainability, security, and comprehensibility. Through empirical studies, tool development, industry collaborations, and educational innovations, we aim to support developers with practical insights and automated tools that are grounded in real-world relevance.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Our research spans multiple interconnected domains within software engineering, focusing on understanding and improving how developers write, comprehend, maintain, and evolve software systems. We investigate both technical aspects of code quality and human factors that influence software development decisions. By combining technical and human dimensions, we use real-world data to create evidence-based solutions that improve maintainability, security, and comprehensibility.  Through empirical studies, tool development, industry collaborations, and educational innovations, we strive to support developers with automated tools and insights grounded in practical relevance.
+projects...
 
 {%
   include button.html

@@ -1,8 +1,9 @@
 ---
 title: Blog
 nav:
-  order: -1
+  order: 100
   tooltip: Musings and miscellany
+  exclude: true
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog

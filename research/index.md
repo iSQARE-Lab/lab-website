@@ -7,12 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research advances the field of software engineering through empirical studies, tool development, and evidence-based methodologies that address real-world challenges in software quality and maintenance. We publish our findings in top-tier venues and develop open-source tools that practitioners can use to improve their software development processes.
+
+Use the search tool below to explore our publications and discover the insights driving our work.
 
 {% include section.html %}
 
-## All
+## Research Publications
 
 {% include search-box.html %}
 

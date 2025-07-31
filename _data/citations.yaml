@@ -14,6 +14,7 @@
   date: '2025-01-01'
   link: https://doi.org/g9t43x
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.24251/hicss.2025.864
@@ -29,6 +30,7 @@
   date: '2025-01-01'
   link: https://doi.org/g9t43z
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.24251/hicss.2025.873
@@ -44,6 +46,7 @@
   date: '2025-01-01'
   link: https://doi.org/g9t432
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/icsme58944.2024.00081
@@ -60,6 +63,7 @@
   date: '2024-10-06'
   link: https://doi.org/g9t433
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/icsme58944.2024.00055
@@ -78,6 +82,7 @@
   date: '2024-10-06'
   link: https://doi.org/g9t434
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3649217.3653643
@@ -94,6 +99,7 @@
   date: '2024-07-03'
   link: https://doi.org/g9t435
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/smr.2395
@@ -109,6 +115,7 @@
   date: '2021-10-28'
   link: https://doi.org/g9t436
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-031-61569-6_2
@@ -123,6 +130,7 @@
   date: '2024-01-01'
   link: https://doi.org/g9t437
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TSE.2021.3098242
@@ -143,6 +151,7 @@
   date: '2022-09-01'
   link: https://doi.org/gq4wwp
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10664-021-10045-x
@@ -159,6 +168,7 @@
   date: '2021-10-23'
   link: https://doi.org/g9t438
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jss.2020.110704
@@ -173,6 +183,7 @@
   date: '2020-11-01'
   link: https://doi.org/gq4w2h
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.jss.2020.110740
@@ -190,6 +201,7 @@
   date: '2020-12-01'
   link: https://doi.org/ghjj44
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/MOBILESoft.2019.00030
@@ -201,6 +213,7 @@
   date: '2019-05-01'
   link: https://doi.org/g9t439
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICSME.2019.00040
@@ -217,6 +230,7 @@
   date: '2019-09-01'
   link: https://doi.org/g9t44b
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICSME.2019.00041
@@ -233,6 +247,7 @@
   date: '2019-09-01'
   link: https://doi.org/gjnrww
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/MSR.2019.00090
@@ -249,6 +264,7 @@
   date: '2019-05-01'
   link: https://doi.org/g9t44c
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/SCAM.2019.00017
@@ -263,6 +279,7 @@
   date: '2019-09-01'
   link: https://doi.org/gq4w2b
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/SCAM.2019.00034
@@ -278,6 +295,7 @@
   date: '2019-09-01'
   link: https://doi.org/g9t44d
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICSME.2019.00103
@@ -289,6 +307,7 @@
   date: '2019-09-01'
   link: https://doi.org/gsdrng
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3242163.3242169
@@ -302,6 +321,7 @@
   date: '2018-09-04'
   link: https://doi.org/gq98f9
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3182184
@@ -315,6 +335,7 @@
   date: '2018-04-27'
   link: https://doi.org/g9t44f
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3197231.3197246
@@ -328,6 +349,7 @@
   date: '2018-05-27'
   link: https://doi.org/g9t44g
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3194707.3194712
@@ -342,6 +364,7 @@
   date: '2018-05-27'
   link: https://doi.org/gfv58h
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3194133.3194134
@@ -354,6 +377,7 @@
   date: '2018-05-28'
   link: https://doi.org/g9t44h
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3194707.3194711
@@ -366,6 +390,7 @@
   date: '2018-05-27'
   link: https://doi.org/g9t44j
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3132525.3134800
@@ -378,6 +403,7 @@
   date: '2017-10-19'
   link: https://doi.org/g9t44k
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICSA.2017.39
@@ -394,6 +420,7 @@
   date: '2017-04-01'
   link: https://doi.org/g9t44m
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/MOBILESoft.2017.5
@@ -409,6 +436,7 @@
   date: '2017-05-01'
   link: https://doi.org/g9t44n
   orcid: 0000-0003-2585-657X
+  member: anthony-peruma
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10664-025-10699-x

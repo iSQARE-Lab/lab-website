@@ -1,7 +1,7 @@
 ---
 name: Yunhee Nam
 image: images/photo.jpg
-role: undergrad
+role: alum-undergrad
 aliases:
   - Y. Nam
   - Y Nam

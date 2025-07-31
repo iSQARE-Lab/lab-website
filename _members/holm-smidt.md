@@ -1,7 +1,7 @@
 ---
 name: Holm Smidt 
 image: images/members/holm-smidt.jpg
-role: master
+role: alum-master
 aliases:
   - H. Smidt
   - H Smidt

@@ -1,7 +1,7 @@
 ---
 name: Joseph Averion
 image: images/members/joseph-averion.jpg
-role: undergrad
+role: alum-undergrad
 aliases:
   - J. Averion
   - J Averion

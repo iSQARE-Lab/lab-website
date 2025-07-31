@@ -1,7 +1,7 @@
 ---
 name: Rocky Huang
 image: images/members/rocky-huang.jpg
-role: undergrad
+role: alum-undergrad
 aliases:
   - R. Huang
   - R Huang

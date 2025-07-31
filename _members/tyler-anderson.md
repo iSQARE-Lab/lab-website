@@ -1,7 +1,7 @@
 ---
 name: Tyler Anderson 
 image: images/members/tyler-anderson.jpg
-role: master
+role: alum-master
 aliases:
   - T. Anderson
   - T Anderson

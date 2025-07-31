@@ -1,7 +1,7 @@
 ---
 name: Hangbo Zhang 
 image: images/members/hangbo-zhang.jpg
-role: master
+role: alum-master
 aliases:
   - H. Zhang
   - H Zhang

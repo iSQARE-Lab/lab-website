@@ -1,7 +1,7 @@
 ---
 name: Roma Malasarte 
 image: images/members/roma-malasarte.jpg
-role: undergrad
+role: alum-undergrad
 aliases:
   - R. Malasarte
   - R Malasarte

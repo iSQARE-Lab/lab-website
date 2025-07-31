@@ -1,7 +1,7 @@
 ---
 name: Alyssia Chen
 image: images/members/alyssia-chen.jpg
-role: master
+role: alum-master
 aliases:
   - A. Chen
   - A Chen

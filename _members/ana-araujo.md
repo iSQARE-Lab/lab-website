@@ -1,7 +1,7 @@
 ---
 name: Ana Araújo
 image: images/members/ana-araujo.jpg
-role: master
+role: alum-master
 aliases:
   - A. Araújo
   - A Araújo

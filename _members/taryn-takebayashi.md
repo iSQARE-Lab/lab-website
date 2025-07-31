@@ -1,7 +1,7 @@
 ---
 name: Taryn Takebayashi
 image: images/members/taryn-takebayashi.jpg
-role: master
+role: alum-master
 aliases:
   - T. Takebayashi
   - T Takebayashi

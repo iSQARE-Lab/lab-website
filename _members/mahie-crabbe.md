@@ -1,7 +1,7 @@
 ---
 name: Mahie Crabbe
 image: images/members/mahie-crabbe.jpg
-role: undergrad
+role: alum-undergrad
 aliases:
   - M. Crabbe
   - M Crabbe

@@ -22,6 +22,14 @@ undergrad:
   icon: fa-solid fa-graduation-cap
   description: Undergraduate Student
 
+alum-master:
+  icon: fa-solid fa-briefcase
+  description: Masters Student
+
+alum-undergrad:
+  icon: fa-solid fa-briefcase
+  description: Undergraduate Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

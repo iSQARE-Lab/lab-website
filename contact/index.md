@@ -7,27 +7,29 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+iSQARE is based at the University of Hawaiʻi at Mānoa, within the Department of Information and Computer Sciences in beautiful Honolulu, Hawaiʻi. We welcome visitors, collaborators, and prospective students to connect with us and explore opportunities in our tropical research paradise.
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="peruma@hawaii.edu"
+  link="peruma@hawaii.edu"
 %}
+
+{% comment %}
 {%
   include button.html
   type="phone"
   text="(555) 867-5309"
   link="+1-555-867-5309"
 %}
+{% endcomment %}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/jspaomZGdXj2DPPu6"
 %}
 
 {% include section.html %}
@@ -36,8 +38,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/buildings/uhmanoa.jpg"
+  caption="The University of Hawaiʻi at Mānoa"
 %}
 
 {% endcapture %}
@@ -46,14 +48,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/buildings/post_building.jpg"
+  caption="Department of Information and Computer Sciences"
 %}
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
+
+
+{% comment %}
 {% include section.html dark=true %}
 
 {% capture col1 %}
@@ -75,3 +80,4 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+{% endcomment %}

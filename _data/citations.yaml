@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/ARXIV.2507.18081
+  title: 'Identifier Name Similarities: An Exploratory Study'
+  authors:
+  - Carol Wong
+  - Mai Abe
+  - Silvia De Benedictis
+  - Marissa Halim
+  - Anthony Peruma
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9vsbk
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2507.16439
+  title: Exploring Large Language Models for Analyzing and Improving Method Names
+    in Scientific Code
+  authors:
+  - Gunnar Larsen
+  - Carol Wong
+  - Anthony Peruma
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9vsbm
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/s10664-025-10699-x
   title: On the structure and semantics of identifier names containing closed syntactic
     category words
@@ -46,6 +71,28 @@
     (ICPC)
   date: '2025-04-27'
   link: https://doi.org/g9t44q
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/icpc66645.2025.00045
+  title: 'Scalar: A Part-of-Speech Tagger for Identifiers'
+  authors:
+  - Christian D. Newman
+  - Brandon Scholten
+  - Sophia Testa
+  - Joshua A. C. Behler
+  - Syreen Banabilah
+  - Michael L. Collard
+  - Michael J. Decker
+  - Mohamed Wiem Mkaouer
+  - Marcos Zampieri
+  - Eman Abdullah AlOmar
+  - Reem Alsuhaibani
+  - Anthony Peruma
+  - Jonathan I. Maletic
+  publisher: 2025 IEEE/ACM 33rd International Conference on Program Comprehension
+    (ICPC)
+  date: '2025-04-27'
+  link: https://doi.org/g9vsbn
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.24251/hicss.2025.864
@@ -147,6 +194,48 @@
   link: https://doi.org/g9t454
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1145/3649217.3653643
+  title: 'Insights from the Field: Exploring Students'' Perspectives on Bad Unit Testing
+    Practices'
+  authors:
+  - Anthony Peruma
+  - Eman Abdullah AlOmar
+  - Wajdi Aljedaani
+  - Christian D. Newman
+  - Mohamed Wiem Mkaouer
+  publisher: Proceedings of the 2024 on Innovation and Technology in Computer Science
+    Education V. 1
+  date: '2024-07-03'
+  link: https://doi.org/g9t435
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICSE-SEET58685.2023.00009
+  title: "Do the Test Smells Assertion Roulette and Eager Test Impact Students\u2019\
+    \ Troubleshooting and Debugging Capabilities?"
+  authors:
+  - Wajdi Aljedaani
+  - Mohamed Wiem Mkaouer
+  - Anthony Peruma
+  - Stephanie Ludi
+  publisher: '2023 IEEE/ACM 45th International Conference on Software Engineering:
+    Software Engineering Education and Training (ICSE-SEET)'
+  date: '2023-05-01'
+  link: https://doi.org/gs7whg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-49179-5_24
+  title: How Is Software Reuse Discussed in Stack Overflow?
+  authors:
+  - Eman Abdullah AlOmar
+  - Anthony Peruma
+  - Mohamed Wiem Mkaouer
+  - Christian Newman
+  - Ali Ouni
+  publisher: Conference on Systems Engineering Research Series
+  date: '2024-01-01'
+  link: https://doi.org/g9vsbp
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/NLBSE59153.2023.00012
   title: 'Performance Comparison of Binary Machine Learning Classifiers in Identifying
     Code Comment Types: An Exploratory Study'
@@ -158,6 +247,20 @@
     Engineering (NLBSE)
   date: '2023-05-01'
   link: https://doi.org/g9t455
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/NLBSE59153.2023.00015
+  title: An Exploratory Study on the Usage and Readability of Messages Within Assertion
+    Methods of Test Cases
+  authors:
+  - Taryn Takebayashi
+  - Anthony Peruma
+  - Mohamed Wiem Mkaouer
+  - Christian D. Newman
+  publisher: 2023 IEEE/ACM 2nd International Workshop on Natural Language-Based Software
+    Engineering (NLBSE)
+  date: '2023-05-01'
+  link: https://doi.org/g9vsbq
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TechDebt59074.2023.00007
@@ -172,5 +275,16 @@
   publisher: 2023 ACM/IEEE International Conference on Technical Debt (TechDebt)
   date: '2023-05-01'
   link: https://doi.org/g9t456
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/ARXIV.2302.11632
+  title: 'Rename Chains: An Exploratory Study on the Occurrence and Characteristics
+    of Identifiers Undergoing Multiple Renamings'
+  authors:
+  - Anthony Peruma
+  - Christian D. Newman
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g9vsbr
   plugin: sources.py
   file: sources.yaml

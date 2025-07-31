@@ -11,7 +11,7 @@ The Intelligent Software Quality Assurance Research & Engineering Laboratory (iS
 
 {% capture text %}
 
-Our mission is to advance the science and practice of software quality assurance through intelligent, developer-focused research. We strive to understand the human and technical factors that shape software development, and to create solutions that make code more reliable, maintainable, and meaningful.
+We aim to advance the science and practice of software quality assurance through intelligent, developer-focused research. We strive to understand the human and technical factors that shape software development, and to create solutions that make code more reliable, maintainable, and meaningful.
 
 {% endcapture %}
 
@@ -48,7 +48,7 @@ Our research spans multiple interconnected domains within software engineering, 
   text=text
 %}
 
-
+{% comment %}
 {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -72,3 +72,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
   flip=true
 %}
+{% endcomment %}

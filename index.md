@@ -17,7 +17,7 @@ We aim to advance the science and practice of software quality assurance through
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage_mission.jpg"
   title="Our Mission"
   flip=true
   style="bare"
@@ -42,7 +42,7 @@ Our research spans multiple interconnected domains within software engineering, 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/homepage_research.jpg"
   link="research"
   title="Our Research"
   text=text

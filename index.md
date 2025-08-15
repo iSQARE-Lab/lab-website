@@ -7,7 +7,7 @@ The Intelligent Software Quality Assurance Research & Engineering Laboratory (iS
 
 {% include section.html %}
 
-## Highlights
+## Overview
 
 {% capture text %}
 

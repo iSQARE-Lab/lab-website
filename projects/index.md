@@ -7,9 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+The following research projects demonstrate iSQARE's commitment to advancing software engineering through developer-centric empirical studies, AI-powered tool development, and real-world impact.
 
+{% include list.html component="card" data="projects" %}
+
+{% comment %}
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
@@ -25,3 +27,4 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 ## More
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% endcomment %}

@@ -9,7 +9,7 @@ nav:
 
 The following research projects demonstrate iSQARE's commitment to advancing software engineering through developer-centric empirical studies, AI-powered tool development, and real-world impact.
 
-{% include list.html component="card" data="projects" %}
+{% include list.html component="card" data="projects" style="small" %}
 
 {% comment %}
 {% include tags.html tags="publication, resource, website" %}

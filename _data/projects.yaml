@@ -12,3 +12,8 @@
   subtitle: Supporting Research Scientists in Software Development
   description: Studying how scientists write, maintain and understand code in scientific domains.
   image: images/projects/scientist.jpg
+
+- title: Software Engineering Education
+  subtitle: Enhancing Learning in Software Engineering
+  description: Investigating how students learn and apply software engineering concepts, including the role of generative AI in education.
+  image: images/projects/lab.jpg

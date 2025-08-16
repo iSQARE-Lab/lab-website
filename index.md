@@ -3,7 +3,7 @@
 
 # Welcome to iSQARE
 
-The Intelligent Software Quality Assurance Research & Engineering Laboratory (iSQARE) is a dynamic research group at the University of Hawaiʻi at Mānoa led by Dr. Anthony S. Peruma. We are dedicated to advancing the field of software engineering with a focus on software quality, maintenance, and evolution through empirical studies, intelligent systems, and developer-centered tools.
+The Intelligent Software Quality Assurance Research & Engineering Laboratory (iSQARE) is a dynamic research group at the University of Hawaiʻi at Mānoa led by [Dr. Anthony S. Peruma](https://www.peruma.me/){:target="_blank"}. We are dedicated to advancing the field of software engineering with a focus on software quality, maintenance, and evolution through empirical studies, intelligent systems, and developer-centered tools.
 
 {% include section.html %}
 

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-iSQARE is based at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/), within the [Department of Information and Computer Sciences](https://www.ics.hawaii.edu/) in beautiful Honolulu, Hawaiʻi. 
+iSQARE is based at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/){:target="_blank"}, within the [Department of Information and Computer Sciences](https://www.ics.hawaii.edu/){:target="_blank"} in beautiful Honolulu, Hawaiʻi. 
 
 We are always looking to collaborate with:
 * **Students** interested in research at the undergraduate, master's, or doctoral levels.

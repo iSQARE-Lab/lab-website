@@ -46,7 +46,7 @@ If you are passionate about improving software, we would love to hear from you. 
 {%
   include figure.html
   image="images/buildings/uhmanoa.jpg"
-  caption="The University of Hawaiʻi at Mānoa"
+  caption="University of Hawaiʻi at Mānoa"
 %}
 
 {% endcapture %}

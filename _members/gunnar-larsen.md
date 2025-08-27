@@ -8,4 +8,5 @@ aliases:
   - Gunnar Larsen
 links:
   linkedin: gunnarrl
+group: alum
 ---

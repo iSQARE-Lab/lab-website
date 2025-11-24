@@ -1,6 +1,6 @@
 ---
 name: Mishalyn Ilmeng
-image: images/photo.jpg
+image: images/members/mishalyn-ilmeng.jpg
 role: undergrad
 aliases:
   - M. Ilmeng

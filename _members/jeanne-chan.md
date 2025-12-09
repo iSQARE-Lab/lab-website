@@ -1,6 +1,6 @@
 ---
 name: Jeanne Chan
-image: images/photo.jpg
+image: images/members/jeanne-chan.jpg
 role: master
 aliases:
   - J. Chan

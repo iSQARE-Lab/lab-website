@@ -8,4 +8,5 @@ aliases:
   - Briana Lee
 links:
   linkedin: -brianalee
+  google-scholar: GYhWOmcAAAAJ
 ---

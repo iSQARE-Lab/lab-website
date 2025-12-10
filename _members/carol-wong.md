@@ -9,4 +9,5 @@ aliases:
 links: 
   linkedin: carolwong492
   home-page: https://carolwong492.github.io/
+  google-scholar: 2dvFz6gAAAAJ
 ---

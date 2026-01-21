@@ -14,7 +14,7 @@
   link: https://doi.org/g937jq
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/ARXIV.2507.18081
+- id: doi:10.1109/esem64174.2025.00034
   title: 'Identifier Name Similarities: An Exploratory Study'
   authors:
   - Carol Wong
@@ -22,21 +22,23 @@
   - Silvia De Benedictis
   - Marissa Halim
   - Anthony Peruma
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/g9vsbk
+  publisher: 2025 ACM/IEEE International Symposium on Empirical Software Engineering
+    and Measurement (ESEM)
+  date: '2025-10-02'
+  link: https://doi.org/hbkqf7
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/ARXIV.2507.16439
+- id: doi:10.1109/esem64174.2025.00030
   title: Exploring Large Language Models for Analyzing and Improving Method Names
     in Scientific Code
   authors:
   - Gunnar Larsen
   - Carol Wong
   - Anthony Peruma
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/g9vsbm
+  publisher: 2025 ACM/IEEE International Symposium on Empirical Software Engineering
+    and Measurement (ESEM)
+  date: '2025-10-02'
+  link: https://doi.org/hbkqf8
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10664-025-10699-x

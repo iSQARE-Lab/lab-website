@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/cascon66301.2025.00068
+  title: 'ChatGPT for Code Refactoring: Analyzing Topics, Interaction, and Effective
+    Prompts'
+  authors:
+  - Eman Abdullah AlOmar
+  - Luo Xu
+  - Sofia Martinez
+  - Anthony Peruma
+  - Mohamed Wiem Mkaouer
+  - Christian D. Newman
+  - Ali Ouni
+  publisher: 2025 IEEE International Conference on Collaborative Advances in Software
+    and COmputiNg (CASCON)
+  date: '2025-11-10'
+  link: https://doi.org/hbnjrc
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/ARXIV.2509.10717
   title: 'Understanding Computer Science Students'' Career Fair Experiences: Goals,
     Preparation, and Outcomes'

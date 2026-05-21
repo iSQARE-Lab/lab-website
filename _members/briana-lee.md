@@ -1,7 +1,7 @@
 ---
 name: Briana Lee
 image: images/members/briana-lee.jpg
-role: master
+role: alum-master
 aliases:
   - B. Lee
   - B Lee
@@ -9,4 +9,5 @@ aliases:
 links:
   linkedin: -brianalee
   google-scholar: GYhWOmcAAAAJ
+group: alum
 ---

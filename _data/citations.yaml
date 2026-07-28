@@ -17,18 +17,18 @@
   link: https://doi.org/hbnjrc
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/ARXIV.2509.10717
+- id: doi:10.24251/HICSS.2026.584
   title: 'Understanding Computer Science Students'' Career Fair Experiences: Goals,
     Preparation, and Outcomes'
   authors:
   - Briana Lee
   - Samantha Limon
   - Alyssia Chen
-  - Kenny Ka'aiakamanu-Quibilan
+  - "Kenny Ka\u2018Aiakamanu-Quibilan"
   - Anthony Peruma
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/g937jq
+  publisher: Proceedings of the Annual Hawaii International Conference on System Sciences
+  date: '2026-01-01'
+  link: https://doi.org/hccv44
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/esem64174.2025.00034

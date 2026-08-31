@@ -8,5 +8,4 @@ aliases:
   - Jesse Abdul 
 links: 
   linkedin: jesse-abdul-94b2284
-group: alum
 ---

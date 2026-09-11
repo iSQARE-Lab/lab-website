@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3744916.3787791
+  title: 'Practitioner Views on Mobile App Accessibility: Practices and Challenges'
+  authors:
+  - Amila Indika
+  - Rick Kazman
+  - Anthony Peruma
+  publisher: Proceedings of the 2026 IEEE/ACM 48th International Conference on Software
+    Engineering
+  date: '2026-04-12'
+  link: https://doi.org/hcjc7s
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3794860.3794908
   title: "Understanding npm Developers\u2019 Practices, Challenges, and Recommendations\
     \ for Secure Package Development"
